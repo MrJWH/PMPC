@@ -6,21 +6,21 @@
 ### 1 Accessing customer tenant 
 1. Sign in to the [Patch My PC Cloud Admin Portal](https://portal.patchmypc.com).
 2. Next, hit the small downward facing icon
-![](/PatchMyPC-Onboarding/images/SwitchToCustomerView.png)
+![](SwitchToCustomerView.png)
 3. Choose your customers tenant
-![](/PatchMyPC-Onboarding/images/ChooseCustomerTenant.png)
+![](ChooseCustomerTenant.png)
 4. You can always check if you are working on a customer tenant by looking at these to places:
-![](/PatchMyPC-Onboarding/images/ConfirmCustomerTenant.png)
+![](ConfirmCustomerTenant.png)
 
 ---
 ### 2 Configure naming prefix
 
 1. Once connected to your customer, go to **Settings** -> **Naming**
-![](/PatchMyPC-Onboarding/images/SelectNamingSettings.png)
+![](SelectNamingSettings.png)
 
 2. Now enter your desired prefix for your customer and hit **save**
 >[!Tip] _You can utilize the **preview** feature to see the prefix_
-   -  ![alt text](/PatchMyPC-Onboarding/images/ConfigureNamingPrefixForCustomer.png)
+   -  ![alt text](ConfigureNamingPrefixForCustomer.png)
 
 3. End results with naming prefix added ([Palme3] was added as a prefix in the image below)
-   ![](/PatchMyPC-Onboarding/images/ApplicationOverviewWitNames.png)
+   ![](ApplicationOverviewWitNames.png)
