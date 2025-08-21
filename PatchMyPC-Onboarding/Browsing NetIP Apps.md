@@ -2,6 +2,6 @@
 
 1. Go to **App Catalog**
     - Choose "Filters"
-    ![](ApplyFilter.png)
+    ![](/PatchMyPC-Onboarding/images/ApplyFilter.png)
 2. You can always verify the source of NetIP Apps ->
-    - ![](IdentifySource.png)
+    - ![](/PatchMyPC-Onboarding/images/IdentifySource.png)
